@@ -45,15 +45,15 @@ const Footer = () =>{
 </div>
 
 
-<div class=" col-sm-4 col-md  col-12 col">
+
+<div class=" col-sm-4 col-md  col-6 col">
 <h6 class="headin5_amrc col_white_amrc pt2">Location Preference</h6>
 <hr className="setWidth" />
 
-<ul className="footer_ul2_amrc  ">
-<li><a href="#"><i class="fab fa-twitter fleft padding-right"></i> </a><p>Shipping: Hong Kong(S.A.R)</p></li>
-<li><a href="#"><i class="fab fa-twitter fleft padding-right"></i> </a><p>Language: English</p></li>
+<ul class="footer_ul_amrc">
+<li><a href="">Shipping: Hong Kong(S.A.R)</a></li>
+<li><a href="">Language: English</a></li>
 </ul>
-
 </div>
 </div>
 
@@ -89,11 +89,11 @@ const Footer = () =>{
 <hr />
 
 <ul class="footer_ul2_amrc">
-<li><a href="#"><i class="fab fa-twitter fleft padding-right"></i> </a><p>Instagram<CallMadeIcon className="callmadeicon" /></p></li>
-<li><a href="#"><i class="fab fa-twitter fleft padding-right"></i> </a><p>Twitter<CallMadeIcon  className="callmadeicon" /></p></li>
-<li><a href="#"><i class="fab fa-twitter fleft padding-right"></i> </a><p>Linkedin<CallMadeIcon  className="callmadeicon" /></p></li>
-<li><a href="#"><i class="fab fa-twitter fleft padding-right"></i> </a><p>WeChat</p></li>
-<li><a href="#"><i class="fab fa-twitter fleft padding-right"></i> </a><p>Weibo<CallMadeIcon  className="callmadeicon" /></p></li>
+<li><a href="#"><i class="fab fa-twitter fleft padding-right"></i>Instagram<CallMadeIcon className="callmadeicon" /></a></li>
+<li><a href="#"><i class="fab fa-twitter fleft padding-right"></i>Twitter<CallMadeIcon  className="callmadeicon" /></a></li>
+<li><a href="#"><i class="fab fa-twitter fleft padding-right"></i>Linkedin<CallMadeIcon  className="callmadeicon" /></a></li>
+<li><a href="#"><i class="fab fa-twitter fleft padding-right"></i>WeChat</a></li>
+<li><a href="#"><i class="fab fa-twitter fleft padding-right"></i> Weibo<CallMadeIcon  className="callmadeicon" /></a></li>
 </ul>
 
 </div>
